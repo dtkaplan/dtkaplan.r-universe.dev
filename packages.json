@@ -1,7 +1,6 @@
 [
     {
         "package": "LSTbook",
-        "url": "https://github.com/dtkaplan/LSTbook",
-        "branch": "*release"
+        "url": "https://github.com/dtkaplan/LSTbook"
     }
 ]
