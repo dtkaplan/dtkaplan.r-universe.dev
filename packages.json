@@ -2,5 +2,9 @@
     {
         "package": "LSTbook",
         "url": "https://github.com/dtkaplan/LSTbook"
+    },
+    {
+        "package": "mosaicCalc",
+        "url": "https://github.com/ProjectMOSAIC/mosaicCalc"
     }
 ]
